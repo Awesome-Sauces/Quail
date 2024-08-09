@@ -1,0 +1,3 @@
+/home/bluedog/Documents/QuailCommons/Quail/build/CMakeFiles/MyProject.dir
+/home/bluedog/Documents/QuailCommons/Quail/build/CMakeFiles/edit_cache.dir
+/home/bluedog/Documents/QuailCommons/Quail/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/bluedog/Documents/QuailCommons/Quail",
+  "command": "/usr/bin/cc  -I/home/bluedog/Documents/QuailCommons/Quail/include  -o CMakeFiles/MyProject.dir/src/main.c.o -c /home/bluedog/Documents/QuailCommons/Quail/src/main.c",
+  "file": "/home/bluedog/Documents/QuailCommons/Quail/src/main.c",
+  "output": "CMakeFiles/MyProject.dir/src/main.c.o"
+},
+{
+  "directory": "/home/bluedog/Documents/QuailCommons/Quail",
+  "command": "/usr/bin/cc  -I/home/bluedog/Documents/QuailCommons/Quail/include  -o CMakeFiles/MyProject.dir/src/server.c.o -c /home/bluedog/Documents/QuailCommons/Quail/src/server.c",
+  "file": "/home/bluedog/Documents/QuailCommons/Quail/src/server.c",
+  "output": "CMakeFiles/MyProject.dir/src/server.c.o"
+},
+{
+  "directory": "/home/bluedog/Documents/QuailCommons/Quail",
+  "command": "/usr/bin/cc  -I/home/bluedog/Documents/QuailCommons/Quail/include  -o CMakeFiles/MyProject.dir/src/tflop.c.o -c /home/bluedog/Documents/QuailCommons/Quail/src/tflop.c",
+  "file": "/home/bluedog/Documents/QuailCommons/Quail/src/tflop.c",
+  "output": "CMakeFiles/MyProject.dir/src/tflop.c.o"
+}
+]

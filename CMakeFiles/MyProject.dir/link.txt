@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MyProject.dir/src/main.c.o CMakeFiles/MyProject.dir/src/server.c.o CMakeFiles/MyProject.dir/src/tflop.c.o -o bin/MyProject  /usr/lib/libmicrohttpd.so

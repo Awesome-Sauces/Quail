@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MyProject.dir/src/main.c.o CMakeFiles/MyProject.dir/src/my_function.c.o -o /home/bluedog/Documents/QuailCommons/Quail/bin/MyProject
